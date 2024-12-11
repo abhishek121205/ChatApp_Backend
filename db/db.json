@@ -5,55 +5,7 @@
       "username": "abhi",
       "email": "abhi@mail.com",
       "password": "$2a$10$2EaDBpZFQefmMsLo0xGq5O7PLBpv9taaPFh5j55hbHWXNuNOFRBia"
-    },
-    {
-      "id": "1733858253058",
-      "username": "trigon",
-      "email": "trigon@mail.com",
-      "password": "$2a$10$RCv4sSZaOHo9r68Ji3eWmuqUra5BQ4OzXsVf6rsiS5K9ccj.v071y"
-    },
-    {
-      "id": "1733934216661",
-      "username": "Extra",
-      "email": "ex@mail.com",
-      "password": "$2a$10$FOgMYVErFNm7lq6O.QFvPOaBXEKBGGN6jQGkJ6dxrK3aKtZZppsOm"
     }
   ],
-  "messages": [
-    {
-      "senderId": "1733856141567",
-      "receiverId": "1733858253058",
-      "text": "hello trigon",
-      "timestamp": "21:52",
-      "id": "1733934164642"
-    },
-    {
-      "senderId": "1733858253058",
-      "receiverId": "1733856141567",
-      "text": "hello abhi",
-      "timestamp": "21:53",
-      "id": "1733934188123"
-    },
-    {
-      "senderId": "1733934216661",
-      "receiverId": "1733858253058",
-      "text": "hello trigon",
-      "timestamp": "21:53",
-      "id": "1733934226761"
-    },
-    {
-      "senderId": "1733858253058",
-      "receiverId": "1733934216661",
-      "text": "hello trigon",
-      "timestamp": "21:53",
-      "id": "1733934234978"
-    },
-    {
-      "senderId": "1733858253058",
-      "receiverId": "1733934216661",
-      "text": "hello extra",
-      "timestamp": "21:54",
-      "id": "1733934244669"
-    }
-  ]
+  "messages": []
 }
